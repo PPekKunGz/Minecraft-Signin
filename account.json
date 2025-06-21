@@ -1,0 +1,25 @@
+{
+    "version": 1,
+    "alt": {
+      "oauth": {
+        "refreshToken": "MS_REFRESH_TOKEN",
+        "token": "MS_ACCESS_TOKEN",
+        "expiry": 1718778493
+      },
+      "xbl": {
+        "userHash": "1234567890",
+        "token": "XBL_TOKEN",
+        "expiry": 1718778493
+      },
+      "xsts": {
+        "userHash": "1234567890",
+        "token": "XSTS_TOKEN",
+        "expiry": 1718778493
+      },
+      "session": {
+        "token": "MINECRAFT_SESSION_TOKEN",
+        "expiry": 1718778493
+      }
+    }
+  }
+  
